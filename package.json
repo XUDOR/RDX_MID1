@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/XUDOR/RDX_MID1/issues"
   },
-  "homepage": "https://github.com/XUDOR/RDX_MID1#readme"
+  "homepage": "https://github.com/XUDOR/RDX_MID1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
